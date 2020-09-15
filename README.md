@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p style="float: right;color: #f00;">Manask</p>
-<script>alert("1");</script>
+<p alignt="center">Manask</p>
