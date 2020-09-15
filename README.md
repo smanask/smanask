@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p alignt="center">Manask</p>
+<p align="center">Manask</p>
