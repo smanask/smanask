@@ -1,3 +1,4 @@
+<div background="#ff0">
 ### Hi there 👋
 
 <!--
@@ -15,4 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">Manask</p>
+<p align="center" color="red">Manask</p>
+</div>
