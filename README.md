@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <p style="float: right;color: #f00;">Manask</p>
+<script>alert("1");</script>
