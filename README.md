@@ -9,6 +9,10 @@
 
 I'm Manask, a CTO | Polyglot Programmer | Serial Entrepreneur | Music Composer | Tech. Speaker with hands-on over various technologies across different domains. I love building crazy stuff with code and contributing to the community.
 
+<br>
+
+<a href="https://www.buymeacoffee.com/manask" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Chai!" height="41" width="174"></a>
+
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
