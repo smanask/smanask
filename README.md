@@ -121,15 +121,7 @@ I'm Manask, a CTO | Polyglot Programmer | Avid Gamer | Serial Entrepreneur | Mus
 
 ## &#x1f4c8; GitHub Stats
 
-<br>
-
-<a href="https://github.com/smanask">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smanask&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&langs_count=10&layout=compact" alt="Manask's Top Languages" />
-</a>
-
-<a href="https://github.com/smanask">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=smanask&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Manask's GitHub Stats" />
-</a>
+[![My GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/smanask?cardType=github&theme=github)](https://git.io/awesome-stats-card)
 
 <br>
 <br>
