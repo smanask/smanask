@@ -1,6 +1,5 @@
 [![Manask's GitHub Banner](./assets/banner.gif)](http://manask.xyz)
 
-[![Visits](https://badges.pufler.dev/visits/smanask/smanask)](#)
 [![Follow on Twitter](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/smanask)
 [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/manaskofficial/)
 [![Follow on Instagram](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://instagram.com/ciber.ai)
